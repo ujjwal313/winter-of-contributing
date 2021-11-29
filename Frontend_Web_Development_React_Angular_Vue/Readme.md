@@ -10,7 +10,7 @@ We will create issues according to Roadmap.You guys can comment under the issues
 - You can find the issues at [https://github.com/girlscript/winter-of-contributing/milestone/3](url)
 
 ## Imp
-- Contributers are not allowded to create issues
+- Contributers are not allowed to create issues
  
 # Important Things before making PR
 
